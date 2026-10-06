@@ -43,7 +43,103 @@
                     "human": "Tus latidos se aceleran sin control y empiezas a sentirte mareado."
                 },
                 "success": {
-                    "android": "Los recursos del sistema se liberan y recuperas el control."
+                    "android": "Los recursos del sistema se liberan y recuperas el control.",
+                    "human": "Respiras hondo y recuperas la compostura."
+                }
+            },
+            "distress_signal": {
+                "roll": {
+                    "human": "Pones la nave en energía de emergencia, se encierran en las criocápsulas, envían una señal de auxilio y esperan ayuda. Es una posibilidad remota, pero a veces es la única oportunidad que tienen. ¿Los encontrarán?"
+                }
+            },
+            "maintenance_issues": {
+                "roll": {
+                    "human": "Realizas una inspección completa de la nave en busca de desgaste."
+                },
+                "success": {
+                    "human": "No encuentras ningún problema en la nave."
+                }
+            }
+        },
+        "item": {
+            "condition": {
+                "add": {
+                    "android": "Ahora sufres de esta condición",
+                    "human": "Ahora sufres de esta condición"
+                },
+                "increase": {
+                    "android": "Tu condición empeora.",
+                    "human": "Tu condición empeora."
+                },
+                "bleed": {
+                    "android": "Tus sensores detectan una pérdida significativa de nanofluidos.",
+                    "human": "Te sientes mareado mientras te desangras."
+                },
+                "radiation": {
+                    "android": "Pérd▒da catastróf⟑ca de d▓tos det|/~ ⋥ct⋱da",
+                    "human": "Miras fijamente a la negrura y te sientes completamente incapaz de salir de ella."
+                },
+                "cryo": {
+                    "android": "Tus sistemas fallan por los daños causados por la condensación.",
+                    "human": "Te despiertas entumecido por el frío, apenas capaz de moverte."
+                }
+            }
+        },
+        "attribute": {
+            "stress": {
+                "increase": {
+                    "android": "Una sobrecarga de energía recorre tu pecho y comienzas a sobrecalentarte.",
+                    "human": "Sientes una opresión en el pecho y comienzas a sudar."
+                },
+                "increaseHeader": {
+                    "android": "Estrés ganado",
+                    "human": "Estrés ganado"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/macros/gain_stress.png",
+                    "human": "systems/mosh/images/icons/ui/macros/gain_stress.png"
+                },
+                "hitCeiling": {
+                    "android": "El rendimiento del sistema se detiene por completo.",
+                    "human": "Tocas fondo."
+                },
+                "pastCeiling": {
+                    "android": "Detectas una pérdida irrecuperable de datos.",
+                    "human": "Sientes cómo una parte de ti se desvanece."
+                },
+                "decrease": {
+                    "android": "Te reinicias parcialmente, purgando procesos innecesarios en segundo plano.",
+                    "human": "Sientes cómo una sensación de calma te invade."
+                },
+                "decreaseHeader": {
+                    "android": "Estrés aliviado",
+                    "human": "Estrés aliviado"
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/macros/relieve_stress.png",
+                    "human": "systems/mosh/images/icons/ui/macros/relieve_stress.png"
+                },
+                "hitFloor": {
+                    "android": "Alcanzas una concentración y claridad perfectas. ",
+                    "human": "Alcanzas una completa paz mental."
+                },
+                "pastFloor": {
+                    "android": "Ya estás tan concentrado como es posible.",
+                    "human": "Ya estás tan calmado como es posible."
+                }
+            },
+            "calm": {
+                "increase": {
+                    "android": "Te reinicias parcialmente, purgando procesos innecesarios en segundo plano.",
+                    "human": "Sientes cómo una sensación de calma te invade."
+                },
+                "increaseHeader": {
+                    "android": "Calma obtenida",
+                    "human": "Calma obtenida"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/macros/relieve_stress.png",
+                    "human": "systems/mosh/images/icons/ui/macros/relieve_stress.png"
                 }
             }
         }
