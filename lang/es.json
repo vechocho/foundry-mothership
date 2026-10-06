@@ -140,6 +140,63 @@
                 "increaseImg": {
                     "android": "systems/mosh/images/icons/ui/macros/relieve_stress.png",
                     "human": "systems/mosh/images/icons/ui/macros/relieve_stress.png"
+                },
+                "hitCeiling": {
+                    "android": "Alcanzas una concentración y claridad perfectas.",
+                    "human": "Alcanzas una completa paz mental."
+                },
+                "pastCeiling": {
+                    "android": "Ya estás tan concentrado como es posible.",
+                    "human": "Ya estás tan calmado como es posible."
+                },
+                "decrease": {
+                    "android": "Una sobrecarga de energía recorre tu pecho y comienzas a sobrecalentarte.",
+                    "human": "Sientes una opresión en el pecho y comienzas a sudar."
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/macros/gain_stress.png",
+                    "human": "systems/mosh/images/icons/ui/macros/gain_stress.png"
+                },
+                "decreaseHeader": {
+                    "android": "Calma Perdida",
+                    "human": "Calma Perdida"
+                },
+                "hitFloor": {
+                    "android": "El rendimiento del sistema se detiene por completo.",
+                    "human": "Tocas fondo."
+                },
+                "pastFloor": {
+                    "android": "Detectas una pérdida irrecuperable de datos.",
+                    "human": "Sientes cómo una parte de ti se desvanece."
+                }
+            },
+            "health": {
+                "increaseHeader": {
+                    "android": "Salud obtenida",
+                    "human": "Salud obtenida"
+                },
+                "decrease": {
+                    "human": "Te estremeces de dolor.",
+                    "android": "Sus receptores de dolor indican el daño del núcleo."
+                },
+                "increase": {
+                    "android": "Los recursos del sistema se liberan y se siente energizado.",
+                    "human": "Siente una explosión de energía."
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/health.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/health.png"
+                },
+                "hitCeiling": {
+                    "android": "Ahora estás en plena salud.",
+                    "human": "Ahora estás en plena salud."
+                },
+                "pastCeiling": {
+                    "android": "Ya estás en plena salud.",
+                    "human": "Ya estás en plena salud."
+                },
+                "decreaseHeader": {
+                    "android": "Salud perdida"
                 }
             }
         }
