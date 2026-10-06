@@ -154,11 +154,20 @@
                     "human": "Sientes una opresión en el pecho y comienzas a sudar."
                 },
                 "decreaseImg": {
-                    "android": "systems/mosh/images/icons/ui/macros/gain_stress.png"
+                    "android": "systems/mosh/images/icons/ui/macros/gain_stress.png",
+                    "human": "systems/mosh/images/icons/ui/macros/gain_stress.png"
                 },
                 "decreaseHeader": {
                     "android": "Calma Perdida",
                     "human": "Calma Perdida"
+                },
+                "hitFloor": {
+                    "android": "El rendimiento del sistema se detiene por completo.",
+                    "human": "Tocas fondo."
+                },
+                "pastFloor": {
+                    "android": "Detectas una pérdida irrecuperable de datos.",
+                    "human": "Sientes cómo una parte de ti se desvanece."
                 }
             },
             "health": {
