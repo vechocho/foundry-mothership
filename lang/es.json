@@ -1,1 +1,51 @@
-{}
+{
+    "Mosh": {
+        "table": {
+            "death_save": {
+                "roll": {
+                    "android": "Llamas a las puertas de la muerte.",
+                    "human": "Llamas a las puertas de la muerte."
+                }
+            },
+            "blunt_force_wound": {
+                "roll": {
+                    "android": "Te preparas para lo peor.",
+                    "human": "Te preparas para lo peor."
+                }
+            },
+            "bleeding_wound": {
+                "roll": {
+                    "android": "Te preparas para lo peor.",
+                    "human": "Te preparas para lo peor."
+                }
+            },
+            "gunshot_wound": {
+                "roll": {
+                    "android": "Te preparas para lo peor.",
+                    "human": "Te preparas para lo peor."
+                }
+            },
+            "fire_explosives_wound": {
+                "roll": {
+                    "android": "Te preparas para lo peor.",
+                    "human": "Te preparas para lo peor."
+                }
+            },
+            "gore_massive_wound": {
+                "roll": {
+                    "android": "Te preparas para lo peor.",
+                    "human": "Te preparas para lo peor."
+                }
+            },
+            "panic_check": {
+                "roll": {
+                    "android": "Pierdes el control motor por un instante mientras tus entradas sensoriales parpadean.",
+                    "human": "Tus latidos se aceleran sin control y empiezas a sentirte mareado."
+                },
+                "success": {
+                    "android": "Los recursos del sistema se liberan y recuperas el control."
+                }
+            }
+        }
+    }
+}
