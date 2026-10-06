@@ -204,7 +204,12 @@
                     "human": "systems/mosh/images/icons/ui/attributes/health.png"
                 },
                 "hitFloor": {
-                    "android": "Tus receptores de dolor indican daño en el núcleo."
+                    "android": "Tus receptores de dolor indican daño en el núcleo.",
+                    "human": "Sus receptores de dolor indican el daño del núcleo."
+                },
+                "pastFloor": {
+                    "android": "Sus receptores de dolor indican el daño del núcleo.",
+                    "human": "Sus receptores de dolor indican el daño del núcleo."
                 }
             },
             "hits": {
