@@ -140,6 +140,30 @@
                 "increaseImg": {
                     "android": "systems/mosh/images/icons/ui/macros/relieve_stress.png",
                     "human": "systems/mosh/images/icons/ui/macros/relieve_stress.png"
+                },
+                "hitCeiling": {
+                    "android": "Alcanzas una concentración y claridad perfectas.",
+                    "human": "Alcanzas una completa paz mental."
+                },
+                "pastCeiling": {
+                    "android": "Ya estás tan concentrado como es posible.",
+                    "human": "Ya estás tan calmado como es posible."
+                },
+                "decrease": {
+                    "android": "Una sobrecarga de energía recorre tu pecho y comienzas a sobrecalentarte.",
+                    "human": "Sientes una opresión en el pecho y comienzas a sudar."
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/macros/gain_stress.png"
+                }
+            },
+            "health": {
+                "increaseHeader": {
+                    "android": "Salud obtenida",
+                    "human": "Salud obtenida"
+                },
+                "decrease": {
+                    "human": "Te estremeces de dolor."
                 }
             }
         }
