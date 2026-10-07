@@ -196,7 +196,184 @@
                     "human": "Ya estás en plena salud."
                 },
                 "decreaseHeader": {
-                    "android": "Salud perdida"
+                    "android": "Salud perdida",
+                    "human": "Salud perdida"
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/health.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/health.png"
+                },
+                "hitFloor": {
+                    "android": "Tus receptores de dolor indican daño en el núcleo.",
+                    "human": "Sus receptores de dolor indican el daño del núcleo."
+                },
+                "pastFloor": {
+                    "android": "Sus receptores de dolor indican el daño del núcleo.",
+                    "human": "Sus receptores de dolor indican el daño del núcleo."
+                }
+            },
+            "hits": {
+                "increase": {
+                    "android": "@UUID[Compendium.mosh.macros_hotbar_1e.ZzKgfEmRdvDfyBMS]{Hacer una tirada de heridas}",
+                    "human": "@UUID[Compendium.mosh.macros_hotbar_1e.ZzKgfEmRdvDfyBMS]{Hacer una tirada de heridas}"
+                },
+                "increaseHeader": {
+                    "android": "Dañado",
+                    "human": "Herido"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/health.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/health.png"
+                },
+                "hitCeiling": {
+                    "android": "@UUID[Compendium.mosh.macros_hotbar_1e.NsRHfRuuNGPfkYVf]{Hacer una tirada de salvación contra la muerte}",
+                    "human": "@UUID[Compendium.mosh.macros_hotbar_1e.NsRHfRuuNGPfkYVf]{Hacer una tirada de salvación contra la muerte}"
+                },
+                "pastCeiling": {
+                    "android": "@UUID[Compendium.mosh.macros_hotbar_1e.NsRHfRuuNGPfkYVf]{Hacer una tirada de salvación contra la muerte}",
+                    "human": "El fin se acerca . . . <br><br>@UUID[Compendium.mosh.macros_hotbar_1e.NsRHfRuuNGPfkYVf]{Hacer una tirada de salvación contra la muerte}"
+                },
+                "decrease": {
+                    "android": "Se liberan recursos del sistema y te sientes con energía.",
+                    "human": "Sientes una ráfaga de energía."
+                },
+                "decreaseHeader": {
+                    "android": "Reparado",
+                    "human": "Remendado"
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/health.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/health.png"
+                },
+                "hitFloor": {
+                    "android": "Tu salud vuelve a estar al máximo.",
+                    "human": "Tu salud vuelve a estar al máximo."
+                },
+                "pastFloor": {
+                    "android": "Ya tienes la salud al máximo.",
+                    "human": "Ya tienes la salud al máximo."
+                }
+            },
+            "strength": {
+                "check": {
+                    "android": "Ganas algo de confianza en tus habilidades.",
+                    "human": "Ganas algo de confianza en tus habilidades."
+                },
+                "increase": {
+                    "android": "Datos recuperados. Datos de la partición central restaurados.",
+                    "human": "Empiezas a sentirte tú mismo de nuevo."
+                },
+                "increaseHeader": {
+                    "android": "Fuerza aumentada",
+                    "human": "Fuerza obtenida"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/strength.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/strength.png"
+                },
+                "hitCeiling": {
+                    "android": "Tu Fuerza vuelve a estar al máximo.",
+                    "human": "Tu Fuerza vuelve a estar al máximo."
+                },
+                "pastCeiling": {
+                    "android": "Tu Fuerza ya está al máximo.",
+                    "human": "Tu Fuerza ya está al máximo."
+                },
+                "decrease": {
+                    "android": "Daño detectado en la partición central. Sectores irrecuperables encontrados.",
+                    "human": "Sientes que una parte de ti se desvanece."
+                },
+                "decreaseHeader": {
+                    "android": "Fuerza afectada",
+                    "human": "Fuerza perdida"
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/strength.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/strength.png"
+                },
+                "hitFloor": {
+                    "android": "No te queda fuerza.",
+                    "human": "No te queda fuerza."
+                },
+                "pastFloor": {
+                    "android": "Tu fuerza no puede bajar más.",
+                    "human": "Tu fuerza no puede bajar más."
+                }
+            },
+            "speed": {
+                "check": {
+                    "android": "Ganas algo de confianza en tus habilidades.",
+                    "human": "Ganas algo de confianza en tus habilidades."
+                },
+                "increase": {
+                    "android": "Datos recuperados. Datos de la partición central restaurados.",
+                    "human": "Empiezas a sentirte tú mismo de nuevo."
+                },
+                "increaseHeader": {
+                    "android": "Velocidad mejorada",
+                    "human": "Velocidad ganada"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/speed.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/speed.png"
+                },
+                "hitCeiling": {
+                    "android": "Ahora estás a la velocidad máxima.",
+                    "human": "Ahora estás a la velocidad máxima."
+                },
+                "pastCeiling": {
+                    "android": "Ya estás a velocidad máxima.",
+                    "human": "Ya estás a velocidad máxima."
+                },
+                "decrease": {
+                    "android": "Daño detectado en la partición central. Sectores irrecuperables encontrados.",
+                    "human": "Sientes que una parte de ti se desvanece."
+                },
+                "decreaseHeader": {
+                    "android": "Velocidad afectada",
+                    "human": "Velocidad perdida"
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/speed.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/speed.png"
+                },
+                "hitFloor": {
+                    "android": "Te sientes completamente letárgico.",
+                    "human": "Te sientes completamente letárgico."
+                },
+                "pastFloor": {
+                    "android": "Tu velocidad no puede bajar más.",
+                    "human": "Tu velocidad no puede bajar más."
+                }
+            },
+            "intellect": {
+                "check": {
+                    "android": "Ganas algo de confianza en tus habilidades.",
+                    "human": "Ganas algo de confianza en tus habilidades."
+                },
+                "increase": {
+                    "android": "Datos recuperados. Datos de la partición central restaurados.",
+                    "human": "Empiezas a sentirte tú mismo de nuevo."
+                },
+                "increaseHeader": {
+                    "android": "Intelecto mejorado",
+                    "human": "Intelecto ganado"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/intellect.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/intellect.png"
+                },
+                "hitCeiling": {
+                    "android": "Ahora estás a intelecto máximo.",
+                    "human": "Ahora estás a intelecto máximo."
+                },
+                "pastCeiling": {
+                    "android": "Ya tienes el intelecto al máximo.",
+                    "human": "Ya tienes el intelecto al máximo."
+                },
+                "decrease": {
+                    "android": "Daño detectado en la partición central. Sectores irrecuperables encontrados.",
+                    "human": "Sientes que una parte de ti se desvanece."
                 }
             }
         }
