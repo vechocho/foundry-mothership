@@ -374,8 +374,208 @@
                 "decrease": {
                     "android": "Daño detectado en la partición central. Sectores irrecuperables encontrados.",
                     "human": "Sientes que una parte de ti se desvanece."
+                },
+                "decreaseHeader": {
+                    "android": "Intelecto afectado",
+                    "human": "Intelecto perdido"
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/intellect.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/intellect.png"
+                },
+                "hitFloor": {
+                    "android": "Te sientes totalmente confundido.",
+                    "human": "Te sientes totalmente confundido."
+                },
+                "pastFloor": {
+                    "android": "Tu intelecto no puede bajar más.",
+                    "human": "Tu intelecto no puede bajar más."
+                }
+            },
+            "combat": {
+                "check": {
+                    "android": "Ganas algo de confianza en tus habilidades.",
+                    "human": "Ganas algo de confianza en tus habilidades."
+                },
+                "increase": {
+                    "android": "Datos recuperados. Datos de la partición central restaurados.",
+                    "human": "Empiezas a sentirte tú mismo de nuevo."
+                },
+                "increaseHeader": {
+                    "android": "Combate mejorado",
+                    "human": "Combate ganado"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/combat.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/combat.png"
+                },
+                "hitCeiling": {
+                    "android": "Ahora tienes el combate al máximo.",
+                    "human": "Ahora tienes el combate al máximo."
+                },
+                "pastCeiling": {
+                    "android": "Ya tienes el combate al máximo.",
+                    "human": "Ya tienes el combate al máximo."
+                },
+                "decrease": {
+                    "android": "Daño detectado en la partición central. Sectores irrecuperables encontrados.",
+                    "human": "Sientes que una parte de ti se desvanece."
+                },
+                "decreaseHeader": {
+                    "android": "Combate afectado",
+                    "human": "Combate perdido"
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/combat.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/combat.png"
+                },
+                "hitFloor": {
+                    "android": "Ya no te imaginas peleando.",
+                    "human": "Ya no te imaginas peleando."
+                },
+                "pastFloor": {
+                    "android": "Tu combate no puede bajar más.",
+                    "human": "Tu combate no puede bajar más."
+                }
+            },
+            "instinct": {
+                "check": {
+                    "android": "Ganas algo de confianza en tus habilidades.",
+                    "human": "Ganas algo de confianza en tus habilidades."
+                },
+                "increase": {
+                    "android": "Datos recuperados. Datos de la partición central restaurados.",
+                    "human": "Empiezas a sentirte tú mismo de nuevo."
+                },
+                "increaseHeader": {
+                    "android": "Instinto mejorado",
+                    "human": "Instinto ganado"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/instinct.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/instinct.png"
+                },
+                "hitCeiling": {
+                    "android": "Ahora tienes el instinto al máximo.",
+                    "human": "Ahora tienes el instinto al máximo."
+                },
+                "pastCeiling": {
+                    "android": "Ya tienes el instinto al máximo.",
+                    "human": "Ya tienes el instinto al máximo."
+                },
+                "decrease": {
+                    "android": "Daño en la partición central detectado. Sectores irrecuperables encontrados.",
+                    "human": "Sientes que una parte de ti se desvanece."
+                },
+                "decreaseHeader": {
+                    "android": "Instinto afectado",
+                    "human": "Instinto perdido"
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/instinct.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/instinct.png"
+                },
+                "hitFloor": {
+                    "android": "Has perdido tus instintos.",
+                    "human": "Has perdido tus instintos."
+                },
+                "pastFloor": {
+                    "android": "Tu instinto no puede bajar más.",
+                    "human": "Tu instinto no puede bajar más."
+                }
+            },
+            "loyalty": {
+                "check": {
+                    "android": "Ganas algo de confianza en tus habilidades.",
+                    "human": "Ganas algo de confianza en tus habilidades."
+                },
+                "increase": {
+                    "android": "Datos recuperados. Datos de la partición central restaurados.",
+                    "human": "Empiezas a sentirte tú mismo de nuevo."
+                },
+                "increaseHeader": {
+                    "android": "Lealtad mejorada",
+                    "human": "Lealtad ganada"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/loyalty.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/loyalty.png"
+                },
+                "hitCeiling": {
+                    "android": "Ahora estás a lealtad máxima.",
+                    "human": "Ahora estás a lealtad máxima."
+                },
+                "pastCeiling": {
+                    "android": "Ya estás a lealtad máxima.",
+                    "human": "Ya estás a lealtad máxima."
+                },
+                "decrease": {
+                    "android": "Daño en la partición central detectado. Sectores irrecuperables encontrados.",
+                    "human": "Sientes que una parte de ti se desvanece."
+                },
+                "decreaseHeader": {
+                    "android": "Lealtad afectada",
+                    "human": "Lealtad perdida"
+                },
+                "decreaseImg": {
+                    "human": "systems/mosh/images/icons/ui/attributes/loyalty.png"
+                },
+                "hitFloor": {
+                    "android": "Solo te importas a ti mismo.",
+                    "human": "Solo te importas a ti mismo."
+                },
+                "pastFloor": {
+                    "android": "Tu lealtad no puede bajar más.",
+                    "human": "Tu lealtad no puede bajar más."
+                }
+            },
+            "sanity": {
+                "check": {
+                    "android": "Ganas confianza en tus habilidades.",
+                    "human": "Ganas confianza en tus habilidades."
+                },
+                "increase": {
+                    "android": "Datos recuperados. Datos de la partición central restaurados.",
+                    "human": "Empiezas a sentirte tú mismo de nuevo."
+                },
+                "increaseHeader": {
+                    "android": "Cordura potenciada",
+                    "human": "Cordura potenciada"
+                },
+                "increaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/sanity.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/sanity.png"
+                },
+                "hitCeiling": {
+                    "android": "Ahora tienes la cordura al máximo.",
+                    "human": "Ahora tienes la cordura al máximo."
+                },
+                "pastCeiling": {
+                    "android": "Ya tienes la cordura al máximo.",
+                    "human": "Ya tienes la cordura al máximo."
+                },
+                "decrease": {
+                    "android": "Daño en la partición central detectado. Sectores irrecuperables encontrados.",
+                    "human": "Sientes que una parte de ti se desvanece."
+                },
+                "decreaseHeader": {
+                    "android": "Cordura afectada",
+                    "human": "Cordura perdida"
+                },
+                "decreaseImg": {
+                    "android": "systems/mosh/images/icons/ui/attributes/sanity.png",
+                    "human": "systems/mosh/images/icons/ui/attributes/sanity.png"
+                },
+                "hitFloor": {
+                    "android": "Has perdido la cabeza.",
+                    "human": "Has perdido la cabeza."
+                },
+                "pastFloor": {
+                    "android": "Tu cordura no puede bajar más.",
+                    "human": "Tu cordura no puede bajar más."
                 }
             }
-        }
+        },
+        "Sanity": "Cordura"
     }
 }
